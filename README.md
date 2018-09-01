@@ -2,7 +2,7 @@
 Here the dataset used is from kaggle.<br>
 We try to understand the sentiment of the review based on the text under summary and review<br>.
 The Amazon Fine Food Reviews dataset consists of reviews of fine foods from Amazon.
-
+* Dataset link https://www.kaggle.com/snap/amazon-fine-food-reviews <br> 
 Number of reviews: 568,454<br>
 Number of users: 256,059<br>
 Number of products: 74,258<br>
